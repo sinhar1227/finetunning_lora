@@ -1,0 +1,9 @@
+pymupdf
+datasets
+transformers
+accelerate
+peft
+bitsandbytes
+torchao
+ipykernel
+python-dotenv
