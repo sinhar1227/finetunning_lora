@@ -1,4 +1,4 @@
-# LLM Fine-Tuning for Pharma Domain
+# LLM Fine-Tuning(PEFT) for Pharma Domain
 
 This repository contains an end-to-end experiment for continued pretraining and fine-tuning of causal language models using pharmaceutical PDF content.
 
@@ -65,6 +65,3 @@ If you want to add a script for automation, use `main.py` or create a new Python
 - Fine-tuning large models is resource-intensive; use a GPU-enabled environment.
 - The current notebooks are the best starting point for adapting the workflow to a new PDF corpus.
 
-## License
-
-Add your license information here.
